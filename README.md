@@ -26,7 +26,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/ankita-deb-5209b723a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgzPNzDwVR9KHpe7Ar4gJxQ%3D%3D"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="ankita" height="32" width="32" /></a>
-<a href = 'https://github.com/anki2001ta'> <img width = '32px' align= 'center' src="https://img.icons8.com/ios-glyphs/344/github.png"/></a> 
+<a href = 'https://github.com/Harshit1732'> <img width = '32px' align= 'center' src="https://img.icons8.com/ios-glyphs/344/github.png"/></a> 
 
 </p>
 
@@ -45,11 +45,11 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anki2001ta&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ankita" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshit1732&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ankita" /></p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anki2001ta&theme=algolia" alt="anki2001ta" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit1732&theme=algolia" alt="Harshit1732" /></p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a><img src="https://github-profile-trophy.vercel.app/?username=anki2001ta&layout=compact&theme=algolia" alt="anki2001ta" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a><img src="https://github-profile-trophy.vercel.app/?username=Harshit1732&layout=compact&theme=algolia" alt="Harshit1732" /> </p>
