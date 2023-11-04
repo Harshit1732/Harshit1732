@@ -12,7 +12,7 @@
  <p>I am passionate about Full Stack Web Development. I have hands-on experience in designing, developing, and maintaining projects. I like to learn more in this Domain and Specialize in Fronted and BackEnd frameworks.</p>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit1732&label=Profile%20views&color=0e75b6&style=flat" alt="anki2001ta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit1732&label=Profile%20views&color=0e75b6&style=flat" alt="Harshit1732" /> </p>
 
 -  I’m currently learning *MERN stack*
 
@@ -25,7 +25,7 @@
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/ankita-deb-5209b723a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgzPNzDwVR9KHpe7Ar4gJxQ%3D%3D"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="ankita" height="32" width="32" /></a>
+<a href="https://www.linkedin.com/in/harshit-gupta-65518121a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgzPNzDwVR9KHpe7Ar4gJxQ%3D%3D"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="ankita" height="32" width="32" /></a>
 <a href = 'https://github.com/Harshit1732'> <img width = '32px' align= 'center' src="https://img.icons8.com/ios-glyphs/344/github.png"/></a> 
 
 </p>
