@@ -21,6 +21,7 @@
 -  All of my projects are available at 
 
 -  Ask me about *HTML, CSS, Javascript, Reactjs, Algorithms,Redux.js, ReduxToolkit, Node.js, Express.js, Mongoose, MongoDB, Microservices, Data Structure and Algorithm.
+-  ![Leetcode](https://leetcode.com/harshit173/)
 
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
