@@ -2,7 +2,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am  harshit 🏽; I am a Full-stack%20Java%20developer 🏻‍💻; interested in Web Browsing🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#57bcf7&vCenter=true&size=27&pause=1000"></a>
 </h3>
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harshit1732&label=Profile%20views&color=9130c5&style=flat" alt="Harshit gupta" /> </p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harshit1732&label=Profile%20views&color=9130c5&style=flat" alt="Harshit Gupta" /> </p>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/105917614/201415026-4f3f4d1e-b314-478b-85ec-7a492ef3dd7c.gif"
 </div>
@@ -40,6 +40,7 @@
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+
 
 
 
