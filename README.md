@@ -1,20 +1,13 @@
  <h3 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Harshit Gupta 🏽; I am a Full-stack%20Java%20developer 🏻‍💻; interested in Web Browsing🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#57bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am  harshit 🏽; I am a Full-stack%20Java%20developer 🏻‍💻; interested in Web Browsing🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#57bcf7&vCenter=true&size=27&pause=1000"></a>
 </h3>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harshit1732ta&label=Profile%20views&color=#0000FF&style=flat" alt="Harshit Gupta" /> </p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harshit1732&label=Profile%20views&color=9130c5&style=flat" alt="harshit gupta" /> </p>
 <div align="center">
-<img src="https://images4.alphacoders.com/587/587777.png" />
+<img src="https://user-images.githubusercontent.com/105917614/201415026-4f3f4d1e-b314-478b-85ec-7a492ef3dd7c.gif"
 </div>
- <h3 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Harshit Gupta 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Web Browsing🏃‍♂♂;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#57bcf7&vCenter=true&size=22&pause=1000"></a>
-</h3>
+<h4 align='center'>I am a full stack Java developer with a passion for creating user-friendly and efficient web applications. I am motivated by the challenge of solving complex problems and the satisfaction of seeing my solutions come to life. My interests include staying up to date with the latest technologies and trends in the industry, as well as continuously learning and improving my skills. I am a team player and enjoy collaborating with others to build great products.</h4>
  
-  <div align="center">
- <p>I am  Full Stack Java  Developer. I have hands-on experience in designing, developing, and maintaining projects. I like to learn more in this Domain and Specialize in  BackEnd frameworks.</p>
-</div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit1732&label=Profile%20views&color=0e75b6&style=flat" alt="Harshit1732" /> </p>
 
 -  I’m currently learning Java Frameworks
