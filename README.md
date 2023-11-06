@@ -9,7 +9,7 @@
 </h3>
  
   <div align="center">
- <p>I am passionate about Full Stack Web Development. I have hands-on experience in designing, developing, and maintaining projects. I like to learn more in this Domain and Specialize in Fronted and BackEnd frameworks.</p>
+ <p>I am  Full Stack Java  Developer. I have hands-on experience in designing, developing, and maintaining projects. I like to learn more in this Domain and Specialize in  BackEnd frameworks.</p>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit1732&label=Profile%20views&color=0e75b6&style=flat" alt="Harshit1732" /> </p>
