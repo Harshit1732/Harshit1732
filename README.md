@@ -1,4 +1,7 @@
-<h1 align="center" color="blue">WELCOME TO HARSHIT HUB</h1>
+ <h3 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Harshit Gupta 🏽; I am a Full-stack%20Java%20developer 🏻‍💻; interested in Web Browsing🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#57bcf7&vCenter=true&size=22&pause=1000"></a>
+</h3>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harshit1732ta&label=Profile%20views&color=#0000FF&style=flat" alt="Harshit Gupta" /> </p>
 <div align="center">
 <img src="https://images4.alphacoders.com/587/587777.png" />
