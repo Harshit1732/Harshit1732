@@ -14,13 +14,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit1732&label=Profile%20views&color=0e75b6&style=flat" alt="Harshit1732" /> </p>
 
--  I’m currently learning *MERN stack*
+-  I’m currently learning Java Frameworks
 
 -  I’m looking to collaborate on *Projects*
 
--  All of my projects are available at [here](https://anki2001ta.github.io/)
+-  All of my projects are available at 
 
--  Ask me about *HTML, CSS, Javascript, Reactjs, Algorithms,Next.js,Redux.js, ReduxToolkit, Firebase, Node.js, Express.js, Mongoose, MongoDB, Microservices, TailwindCss, MaterialUI, ChakraUI, AntD*
+-  Ask me about *HTML, CSS, Javascript, Reactjs, Algorithms,Redux.js, ReduxToolkit, Node.js, Express.js, Mongoose, MongoDB, Microservices, Data Structure and Algorithm.
 
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
