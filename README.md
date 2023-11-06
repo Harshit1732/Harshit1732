@@ -2,23 +2,32 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am  harshit 🏽; I am a Full-stack%20Java%20developer 🏻‍💻; interested in Web Browsing🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#57bcf7&vCenter=true&size=27&pause=1000"></a>
 </h3>
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harshit1732&label=Profile%20views&color=9130c5&style=flat" alt="harshit gupta" /> </p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harshit1732&label=Profile%20views&color=9130c5&style=flat" alt="Harshit gupta" /> </p>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/105917614/201415026-4f3f4d1e-b314-478b-85ec-7a492ef3dd7c.gif"
 </div>
-<h4 align='center'>I am a full stack Java developer with a passion for creating user-friendly and efficient web applications. I am motivated by the challenge of solving complex problems and the satisfaction of seeing my solutions come to life. My interests include staying up to date with the latest technologies and trends in the industry, as well as continuously learning and improving my skills. I am a team player and enjoy collaborating with others to build great products.</h4>
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit1732&label=Profile%20views&color=0e75b6&style=flat" alt="Harshit1732" /> </p>
+<h4 align='center'>I am a full-stack Java developer passionate about creating user-friendly and efficient web applications. I am motivated by the challenge of solving complex problems and the satisfaction of seeing my solutions come to life. My interests include staying up to date with the latest technologies and trends in the industry, as well as continuously learning and improving my skills. I am a team player and enjoy collaborating with others to build great products.</h4>
 
--  I’m currently learning Java Frameworks
+<img align="right" alt="coding image" width="30%" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76117725eb09466df8a2245fcc11e918b1f101a94fec&rid=giphy.gif&ct=g" >
 
--  I’m looking to collaborate on *Projects*
+<img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
--  All of my projects are available at 
+# 💫 About Me:
+- 🌱 I’m currently learning *MERN STACK**
 
--  Ask me about *HTML, CSS, Javascript, Reactjs, Algorithms,Redux.js, ReduxToolkit, Node.js, Express.js, Mongoose, MongoDB, Microservices, Data Structure and Algorithm.
--  Leetcode(https://leetcode.com/harshit173/)
+- 👨‍💻 All of my projects are available at [https://github.com/Harshit1732](https://github.com/Harshit1732)
 
+- 💬 Ask me about **HTML, CSS, Javascript, Java, C++, Python , AWS , Node , Strspi**
+
+- 📫 How to reach me **shaikhnazmin1328@gmail.com** //apna email dal
+
+- 📄 Check [Resume](https://drive.google.com/file/d/1eWriveKT4GH-5zMi99Gi1tZv9DdHJmCF/view?usp=sharing) // apna resume link
+
+- 📄 Know more about me and my work [Portfolio](https://NazminS28.github.io/)  // tera portfolio
+
+
+
+<img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
 
