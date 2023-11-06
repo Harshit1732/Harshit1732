@@ -1,7 +1,7 @@
 <h1 align="center" color="blue">WELCOME TO HARSHIT HUB</h1>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harshit1732ta&label=Profile%20views&color=#0000FF&style=flat" alt="Harshit Gupta" /> </p>
 <div align="center">
-<img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
+<img src="https://images4.alphacoders.com/587/587777.png" />
 </div>
  <h3 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
