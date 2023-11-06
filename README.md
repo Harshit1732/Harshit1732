@@ -23,9 +23,9 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, Java, C++, Python , AWS , Node , Strspi**
 
-- 📫 How to reach me **shaikhnazmin1328@gmail.com** //apna email dal
+- 📫 How to reach me **harshitgupta1732000@gmail.com**//apna email dal
 
-- 📄 Check [Resume](https://drive.google.com/file/d/1eWriveKT4GH-5zMi99Gi1tZv9DdHJmCF/view?usp=sharing) // apna resume link
+- 📄 Check [Resume](https://drive.google.com/file/d/1BVnzx98zKkjPDrIwNcA-B6wrpl3xrk_R/view?usp=drive_link) // apna resume link
 
 - 📄 Know more about me and my work [Portfolio](https://NazminS28.github.io/)  // tera portfolio
 
